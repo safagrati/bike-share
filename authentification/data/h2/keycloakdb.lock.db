@@ -1,0 +1,6 @@
+#FileLock
+#Mon Feb 19 19:36:18 WAT 2024
+hostName=yay
+id=18dc2a793bd4c29c524acc43f340de37f78992db2bd
+method=file
+server=192.168.34.110\:60474
